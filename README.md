@@ -135,6 +135,17 @@ GET /api/ratings/:storeId → Get ratings for a store
 
 
 
+For Admin sign in:-
+gmail:-official@gmail.com
+password:-Official123!
+
+for Store sign in:-
+gmail:-store@gmail.com
+password:-Owner123!
+
+or as per your Database requirements
+
+
 
 
  Contributing
